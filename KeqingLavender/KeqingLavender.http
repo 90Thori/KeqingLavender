@@ -1,0 +1,6 @@
+@KeqingLavender_HostAddress = http://localhost:5219
+
+GET {{KeqingLavender_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
